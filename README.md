@@ -1,17 +1,26 @@
-# todolist
+# ✅ Todo List App — Flutter
 
-A new Flutter project.
+A Todo List mobile app built with Flutter as part of learning mobile app development.
 
-## Getting Started
+## Current Status
+- 🎨 UI completed — clean task list interface
+- 🔄 Navigation between screens working
+- ⏳ SQLite database integration in progress
 
-This project is a starting point for a Flutter application.
+## Features (UI)
+- Home screen with dummy task list
+- Basic navigation flow
 
-A few resources to get you started if this is your first Flutter project:
+## Coming Soon
+- Add / Edit / Delete tasks (SQLite)
+- Search functionality
+- Task completion toggle
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Built With
+- Flutter
+- Dart
+- Android Studio
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## About
+I'm a 3rd year engineering student learning Flutter.
+This repo will be updated as I complete the SQLite module.
