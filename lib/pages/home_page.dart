@@ -1,9 +1,11 @@
 import 'dart:ui';
 import 'package:flutter/material.dart';
+import 'package:todoList/data/local/db_helper.dart';
 import 'package:todoList/pages/task_page.dart';
 
 class HomePageDesigning extends StatelessWidget {
-  const HomePageDesigning({super.key});
+  HomePageDesigning({super.key});
+  DBHelper db = DBHelper.getInstance;
 
   @override
   Widget build(BuildContext context) {
